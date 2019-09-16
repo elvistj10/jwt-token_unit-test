@@ -4,6 +4,8 @@ Spring Security using JWT Token and Unit Test
 
 ----------------------------> NOTE <----------------------------
 
+- git clone https://github.com/elvistj10/jwt-token_unit-test
+
 - open cmd and cd to unit-test directory
 
 - running using maven spring boot command 'mvn spring-boot:run'
